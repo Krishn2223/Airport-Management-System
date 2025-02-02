@@ -27,8 +27,8 @@ The project is based on node-express for backend server and MySQL as the databas
 Clone the Repository
 
 ```bash
-git clone https://github.com/Deval1807/Airport_Management_System
-cd Airport_Management_System
+git clone https://github.com/Krishn2223/Airport-Management-System.git
+cd Airport-Management-System
 ```
 
 ### Configuration
